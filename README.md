@@ -10,19 +10,6 @@ B.S. in Computer Science & Financial Engineering @ Washington University in St. 
 -  Designing clean UI/UX with **Figma and SwiftUI**  
 
 ---
-
-## Projects  
-
-### Pixbit Habit-Tracking App – *Swift, Firebase*  
-Gamified iOS app that rewards users with AI-generated artwork for completing daily habits.  
-
-### AI Pac-Man Game – *Python (A*, Alpha-Beta Pruning)*  
-Reinforcement learning agent that achieved a **90%+ win rate** in gameplay strategy optimization.  
-
-### Unfollowers Web App – *Python, Flask, JS, BeautifulSoup*  
-Full-stack Flask application that parses Instagram exports, compares followers vs. followings, and identifies unfollowers.  
-
----
 <h2>Some Tools I Have Used and Learned</h2>
 <p align="left">
   <!-- Programming Languages -->
